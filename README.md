@@ -1,1 +1,3 @@
+**Machine Learning Decision Tree Forest Project**
+
 The purpose of this project was to develop a machine learning algorithm capable of predicting the desired user preferences of an end user through various collecte data unrelated to the preference in question. The keybinding for the flash ability in League of Legends represents a high impact user preference with strong opinions held by both sides of the community. This project proves that machine learning algorithms can produce a reasonably accurate guess of a user's desired preferences despite not having any particular data directly related to the preference itself.
